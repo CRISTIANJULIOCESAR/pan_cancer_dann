@@ -1,4 +1,3 @@
----
 
 # Domain-Adversarial Neural Network and Explainable AI for Reducing Tissue-of-Origin Signal in Pan-cancer Mortality Classification
 
@@ -39,5 +38,4 @@ We evaluated the DANN using three complementary strategies:
 * **Explainability Enhancement:** Introduces a layer-aware SHAP approach to uncover mortality-specific molecular patterns.
 * **Biological Insight:** Supports discovery of tissue-independent biomarkers and core cancer pathways relevant to patient survival.
 
----
 

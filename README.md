@@ -1,5 +1,3 @@
-Here’s your README draft in English:
-
 ---
 
 # Domain-Adversarial Neural Network and Explainable AI for Reducing Tissue-of-Origin Signal in Pan-cancer Mortality Classification
